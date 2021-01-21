@@ -22,9 +22,6 @@ vnoremap L w
 nnoremap ;; A;<esc>
 inoremap ;; <esc>A;<esc>
 
-""{{ inserts a bracket at the end of the line then opens code block. lets autocomplete handle }
-nnoremap {{ A {<esc>o
-inoremap {{ <esc>A {<esc>o
 "" wf to exit insert mode
 inoremap wf <esc>
 "" Space space to go to a mark 
